@@ -186,20 +186,6 @@
     margin-bottom: 20px;
   }
   
-  .footer-button {
-    width: 109px;
-    border: none;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 4px;
-    font-size: 12px;
-    font-weight: 500;
-    cursor: pointer;
-    border-radius: 2px;
-    background-color: var(--secondary);
-    color: #FFF;
-  }
   
   .footer-nav a {
     text-decoration: none;
